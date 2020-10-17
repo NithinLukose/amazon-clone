@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+
+.df{
+  display: flex;
+}
+
+.fdc {
+  flex-direction: column;
+}
+
+.jcsb{
+  justify-content: space-between;
+}
+
+.aic{
+  align-items: center;
+}
